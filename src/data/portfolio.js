@@ -23,7 +23,7 @@ export const profile = {
   email: 'riyo.nurmalaya@gmail.com',
   phone: '085788688573',
   phoneHref: 'tel:+6285788688573',
-  github: { label: 'github.com/RiyoNur', href: 'https://github.com/RiyoNur' },
+  github: { label: 'github.com/RiyoJessen', href: 'https://github.com/RiyoJessen' },
   linkedin: {
     label: 'riyo-jessenniako-nurmalaya22',
     href: 'https://www.linkedin.com/in/riyo-jessenniako-nurmalaya22',
