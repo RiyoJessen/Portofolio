@@ -28,7 +28,7 @@ export const profile = {
     label: 'riyo-jessenniako-nurmalaya22',
     href: 'https://www.linkedin.com/in/riyo-jessenniako-nurmalaya22',
   },
-  cv: '/Portfolio_Riyo_Jessenniako_Nurmalaya.pdf',
+  cv: `${import.meta.env.BASE_URL}Portfolio_Riyo_Jessenniako_Nurmalaya.pdf`,
 }
 
 export const projects = [
